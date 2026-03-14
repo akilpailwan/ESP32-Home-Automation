@@ -2,11 +2,11 @@
 #include <Arduino_ConnectionHandler.h>
 #include <Wifi.h>
 
-const char DEVICE_LOGIN_NAME[] = "9f244bd6-04d4-4caf-ac43-ac5d94b678a6";
+const char DEVICE_LOGIN_NAME[] = "9f244bd6-04d4-4caf-ac43-*******ac5d94b678a6";
 
 const char SSID[] = "mewt";
 const char PASS[] = "87654321";
-const char DEVICE_KEY[] = "v1AAZn40a7NufXyj#K2tig9B1";
+const char DEVICE_KEY[] = "v1AAZn40a7NufX**********yj#K2tig9B1";
 
 #define RelayPin1 23
 #define RelayPin2 22
