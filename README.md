@@ -26,6 +26,8 @@ Users can control relays using a mobile dashboard or physical switches connected
 
 ## Future Improvements
 
-- Energy monitoring
-- Voice control integration
-- Mobile app interface
+* Energy consumption monitoring system
+* Advanced scheduling with AI-based automation
+* Fault detection and alert system (overload, short circuit)
+* Offline mode with local server control
+
